@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Факториал\obj\Debug\net6.0\Факториал.GlobalUsings.g.cs
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Факториал\obj\Debug\net6.0\Факториал.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Факториал\obj\Debug\net6.0\Факториал.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Факториал\obj\Debug\net6.0\Факториал.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Факториал\obj\Debug\net6.0\Факториал.AssemblyInfo.cs
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Факториал\obj\Debug\net6.0\Факториал.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Факториал\bin\Debug\net6.0\Факториал.exe
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Факториал\bin\Debug\net6.0\Факториал.deps.json
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Факториал\bin\Debug\net6.0\Факториал.runtimeconfig.json
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Факториал\bin\Debug\net6.0\Факториал.dll
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Факториал\bin\Debug\net6.0\ref\Факториал.dll
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Факториал\bin\Debug\net6.0\Факториал.pdb
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Факториал\obj\Debug\net6.0\Факториал.dll
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Факториал\obj\Debug\net6.0\ref\Факториал.dll
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Факториал\obj\Debug\net6.0\Факториал.pdb
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Факториал\obj\Debug\net6.0\Факториал.genruntimeconfig.cache
