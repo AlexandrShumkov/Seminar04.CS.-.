@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Рекурсия\bin\Debug\net6.0\Рекурсия.exe
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Рекурсия\bin\Debug\net6.0\Рекурсия.deps.json
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Рекурсия\bin\Debug\net6.0\Рекурсия.runtimeconfig.json
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Рекурсия\bin\Debug\net6.0\Рекурсия.dll
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Рекурсия\bin\Debug\net6.0\ref\Рекурсия.dll
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Рекурсия\bin\Debug\net6.0\Рекурсия.pdb
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Рекурсия\obj\Debug\net6.0\Рекурсия.GlobalUsings.g.cs
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Рекурсия\obj\Debug\net6.0\Рекурсия.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Рекурсия\obj\Debug\net6.0\Рекурсия.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Рекурсия\obj\Debug\net6.0\Рекурсия.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Рекурсия\obj\Debug\net6.0\Рекурсия.AssemblyInfo.cs
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Рекурсия\obj\Debug\net6.0\Рекурсия.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Рекурсия\obj\Debug\net6.0\Рекурсия.dll
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Рекурсия\obj\Debug\net6.0\ref\Рекурсия.dll
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Рекурсия\obj\Debug\net6.0\Рекурсия.pdb
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Рекурсия\obj\Debug\net6.0\Рекурсия.genruntimeconfig.cache
