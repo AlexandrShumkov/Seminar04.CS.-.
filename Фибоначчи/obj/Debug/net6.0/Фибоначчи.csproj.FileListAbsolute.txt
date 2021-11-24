@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Фибоначчи\obj\Debug\net6.0\Фибоначчи.GlobalUsings.g.cs
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Фибоначчи\obj\Debug\net6.0\Фибоначчи.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Фибоначчи\obj\Debug\net6.0\Фибоначчи.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Фибоначчи\obj\Debug\net6.0\Фибоначчи.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Фибоначчи\obj\Debug\net6.0\Фибоначчи.AssemblyInfo.cs
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Фибоначчи\obj\Debug\net6.0\Фибоначчи.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Фибоначчи\bin\Debug\net6.0\Фибоначчи.exe
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Фибоначчи\bin\Debug\net6.0\Фибоначчи.deps.json
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Фибоначчи\bin\Debug\net6.0\Фибоначчи.runtimeconfig.json
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Фибоначчи\bin\Debug\net6.0\Фибоначчи.dll
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Фибоначчи\bin\Debug\net6.0\ref\Фибоначчи.dll
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Фибоначчи\bin\Debug\net6.0\Фибоначчи.pdb
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Фибоначчи\obj\Debug\net6.0\Фибоначчи.dll
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Фибоначчи\obj\Debug\net6.0\ref\Фибоначчи.dll
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Фибоначчи\obj\Debug\net6.0\Фибоначчи.pdb
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Фибоначчи\obj\Debug\net6.0\Фибоначчи.genruntimeconfig.cache
