@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Task11\obj\Debug\net6.0\Task11.GlobalUsings.g.cs
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Task11\obj\Debug\net6.0\Task11.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Task11\obj\Debug\net6.0\Task11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Task11\obj\Debug\net6.0\Task11.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Task11\obj\Debug\net6.0\Task11.AssemblyInfo.cs
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Task11\obj\Debug\net6.0\Task11.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Task11\bin\Debug\net6.0\Task11.exe
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Task11\bin\Debug\net6.0\Task11.deps.json
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Task11\bin\Debug\net6.0\Task11.runtimeconfig.json
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Task11\bin\Debug\net6.0\Task11.dll
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Task11\bin\Debug\net6.0\ref\Task11.dll
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Task11\bin\Debug\net6.0\Task11.pdb
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Task11\obj\Debug\net6.0\Task11.dll
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Task11\obj\Debug\net6.0\ref\Task11.dll
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Task11\obj\Debug\net6.0\Task11.pdb
+C:\Users\user\Desktop\Seminar04.CS.Двумерные массивы\Task11\obj\Debug\net6.0\Task11.genruntimeconfig.cache
